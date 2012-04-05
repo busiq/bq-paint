@@ -1,0 +1,1 @@
+Simple paint application, written for school exam
