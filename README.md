@@ -5,4 +5,5 @@ Main features:
 - simple color filters
 - several painting tools (bucket fill for example)
 
-Feel free to use any part of code :) (oh, and sorry for polish comments)
+Btw, application is in Polish, comments too.
+Feel free to use any part of code :) 
